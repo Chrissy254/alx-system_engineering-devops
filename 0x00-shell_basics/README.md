@@ -1,1 +1,1 @@
-ls -al . .. /boot - listing
+file /tmp/iamfile - prints file type
