@@ -1,1 +1,1 @@
- rm /tmp/my_first_directory/betty - to delete file betty
+rm -r /tmp/my_first_directory to delete directory
