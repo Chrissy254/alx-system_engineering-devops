@@ -1,1 +1,1 @@
-rm -r /tmp/my_first_directory to delete directory
+cd - chandes directory to a previous one
