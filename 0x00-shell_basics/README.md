@@ -1,1 +1,1 @@
-ls -lan - display content of a directory in long format,with user and group id numerically and hidden files
+ mkdir /temp/my_first_directory - creates a directory named my_first_directory in tmp
