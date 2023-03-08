@@ -1,1 +1,1 @@
-file /tmp/iamfile - prints file type
+ln -s /bin/ls _ls_ creating symbolic link
