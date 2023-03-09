@@ -1,1 +1,1 @@
-ln -s /bin/ls _ls_ creating symbolic link
+cp -un *.html ../ copy all .html files
